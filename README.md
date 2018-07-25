@@ -1,32 +1,4 @@
-/*=============================================================================
- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
- *                                                                             *
- *                    COPYRIGHT, 2017 FORD MOTOR COMPANY                       *
- *                                                                             *
- *                               CONFIDENTIAL                                  *
- *                                                                             *
- * This is an unpublished work, which is a trade secret, created in            *
- * 2016.  Ford Motor Company owns all rights to this work and intends          *
- * to maintain it in confidence to preserve its trade secret status.           *
- * Ford Motor Company reserves the right to protect this work as an            *
- * unpublished copyrighted work in the event of an inadvertent or              *
- * deliberate unauthorized publication. Ford Motor Company also                *
- * reserves its rights under the copyright laws to protect this work           *
- * as a published work. Those having access to this work may not copy          *
- * it, use it, or disclose the information contained in it without the         *
- * written authorization of Ford Motor Company.                                *
- *                                                                             *
- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-  File Name: FillInTemplate.java
-  File description:
- ==============================================================================
- $HISTORY$
- ------------------------------------------------------------------------------
-/*=======================================================================
-Date            Name                    Description of Change
-June-8-2017     HDAOUD                	US296418 - Print to Excel from CMF - F26344
-Oct-16-2017     VTIRUPAT                Find Bugs & US373638-UI/UX -Export to Excel file naming convention
-=======================================================================*/
+
 
 package com.ford.pd.bom.ui.utils;
 
